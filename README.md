@@ -8,5 +8,7 @@
 - **Tools & Technologies:** Visual Studio, Eclipse, NetBeans, Rational Rose, Oracle, MySQL, Android Studio, PyCharm, IntelliJ, Spyder, Xilinx, Visual Studio Code, Docker, Arduino IDE, Keil uVision5, VMware, Anaconda, Proteus 7.
 
 **📦 [GitHub](https://github.com/SaraMohamed-121)**
+
 **🔗 [LinkedIn](https://www.linkedin.com/in/sara-abdelaal/)**
+
 **🎯 [Codeforces](https://codeforces.com/profile/sara-121)**
