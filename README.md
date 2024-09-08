@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sara Mohamed Abdelaal
 
 **👩‍💻 Education:**
-- A Junior Software Engineer at Faculty of Computer and Information Sciences, Ain Shams University.
+- A Junior student at Faculty of Computer and Information Sciences, Ain Shams University.
 
 **🌐 Technical Skills:**
 - **Programming Languages:** C/C++, C#, Java, Python, JavaScript, HTML, CSS.
