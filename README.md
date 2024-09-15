@@ -11,10 +11,10 @@ Junior student at the Faculty of Computer and Information Sciences, Ain Shams Un
 **🌐 Technical Skills:**
 - **Programming Languages:**
  
-  C/C++, C#, Java, Python, JavaScript, HTML, CSS
+  C/C++, C#, Java, Python, JavaScript, HTML, CSS.
 - **Tools & Technologies:**
   
-  Visual Studio, Eclipse, NetBeans, Rational Rose, Oracle, MySQL, Android Studio, PyCharm, IntelliJ, Spyder, Xilinx, Visual Studio Code, Docker, Arduino IDE, Keil uVision5, VMware, Anaconda, Proteus 7
+  Visual Studio, Eclipse, NetBeans, Rational Rose, Oracle, MySQL, Android Studio, PyCharm, IntelliJ, Spyder, Xilinx, Visual Studio Code, Docker, Arduino IDE, Keil uVision5, VMware, Anaconda, Proteus 7.
 
 **🔗 Connect with me:**
 
