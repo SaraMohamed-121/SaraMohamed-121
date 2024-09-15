@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Sara Mohamed Abdelaal
 
 **💡 About Me:**
-I am passionate about leveraging technology to solve real-world challenges. My expertise in computer vision, AI, and embedded systems enables me to create innovative solutions, from IoT devices to advanced image processing algorithms and user-friendly interfaces. I aim to develop smarter, more connected devices and contribute to technological advancements that benefit society.**👩‍💻 Education:**
+I am passionate about leveraging technology to solve real-world challenges. My expertise in computer vision, AI, and embedded systems enables me to create innovative solutions, from IoT devices to advanced image processing algorithms and user-friendly interfaces. I aim to develop smarter, more connected devices and contribute to technological advancements that benefit society.
+
+**👩‍💻 Education:**
 - Junior student at the Faculty of Computer and Information Sciences, Ain Shams University.
 
 **🌐 Technical Skills:**
@@ -12,9 +14,9 @@ I am passionate about leveraging technology to solve real-world challenges. My e
 
 **🔗 Connect with me:**
 
-<a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/>
 </a>
-<a href="https://codeforces.com/profile/sara-121" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/sara-121" target="_blank">
   <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="20" height="20" style="vertical-align: middle;"/>
 </a>
