@@ -9,7 +9,5 @@
 
 **🔗**
 <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/></a>
-<a href="https://codeforces.com/profile/sara-121" target="_blank"><img src="https://sta.codeforces.com/s/66991/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="20" height="20" style="vertical-align: middle;"/></a>)
-
-[![Codeforces](https://sta.codeforces.com/s/66991/images/codeforces-logo-with-telegram.png)](https://codeforces.com/profile/sar)
-
+<a href="https://codeforces.com/profile/sara-121" target="_blank"><img src="![image](https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf)
+" alt="Codeforces" width="20" height="20" style="vertical-align: middle;"/></a>)
