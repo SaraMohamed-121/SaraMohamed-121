@@ -14,9 +14,9 @@ I am passionate about leveraging technology to solve real-world challenges. My e
 
 **🔗 Connect with me:**
 
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/>
 </a>
-&nbsp;&nbsp; <a href="https://codeforces.com/profile/sara-121" target="_blank">
+ &nbsp; <a href="https://codeforces.com/profile/sara-121" target="_blank">
   <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="20" height="20" style="vertical-align: middle;"/>
 </a>
