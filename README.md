@@ -8,15 +8,31 @@ I am passionate about leveraging technology to solve real-world challenges. My e
 
 Junior student at the Faculty of Computer and Information Sciences, Ain Shams University.
 
-**🌐 Technical Skills:**
-- **Programming Languages:**
- 
-  C/C++/C#, Java, Python, JavaScript, HTML, CSS.
-- **Tools & Technologies:**
+**🛠 Technical Skills:**
+- **Programming Languages:**  
+   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
   
-  Visual Studio, Eclipse, NetBeans, Rational Rose, Oracle, MySQL, Android Studio, PyCharm, IntelliJ, Spyder, Xilinx, Visual Studio Code, Docker, Arduino IDE, Keil uVision5, VMware, Anaconda, Proteus 7.
+- **Data Analysis & Computer Vision Libraries**  
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23003995.svg?style=flat&logo=seaborn&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-%230042A1.svg?style=flat) ![Ultralytics](https://img.shields.io/badge/Ultralytics-%2300417A.svg?style=flat) ![Ray](https://img.shields.io/badge/Ray-%23E01563.svg?style=flat)  
+  
+- **Tools:** 
+    + *IDEs for Development*  
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-%2300628E.svg?style=flat&logo=apache-netbeans-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-%23FF0000.svg?style=flat&logo=spyder-ide&logoColor=white)  
 
-**🔗 Connect with me:**
+  - *Embedded Systems & HW Development*          ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-uVision5-%23000000.svg?style=flat) ![Xilinx](https://img.shields.io/badge/Xilinx-%23ED1B24.svg?style=flat&logo=xilinx&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-%230A64A3.svg?style=flat)  
+
+  + *Database*  ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)  
+
+  - *Virtualization*  ![VMware](https://img.shields.io/badge/VMware-%23060707.svg?style=flat&logo=vmware&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23EFBF3D.svg?style=flat&logo=virtualbox&logoColor=white)  
+
+  + *SW Design*    ![Rational Rose](https://img.shields.io/badge/Rational%20Rose-%23000000.svg?style=flat) ![Draw.io](https://img.shields.io/badge/Draw.io-%23F57600.svg?style=flat) ![StarUML](https://img.shields.io/badge/StarUML-%23013D80.svg?style=flat)
+
+---
+
+
+**🔗 Connect with me:** **[sara.sae1212@gmail.com](mailto:sara.sae1212@gmail.com)**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/>
