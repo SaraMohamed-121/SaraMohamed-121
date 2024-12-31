@@ -6,7 +6,7 @@ I am passionate about leveraging technology to solve real-world challenges. My e
 
 **👩‍💻 Education:**
 
-Junior student at the Faculty of Computer and Information Sciences, Ain Shams University.
+Senior student at the Faculty of Computer and Information Sciences, Ain Shams University.
 
 **🛠 Technical Skills:**
 - **Programming Languages:**  
@@ -34,13 +34,10 @@ Junior student at the Faculty of Computer and Information Sciences, Ain Shams Un
 
 **🔗 Connect with me:** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/>
-</a>
- &nbsp;<a href="mailto:sara.sae1212@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="20" height="20" style="vertical-align: middle;"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sara-abdelaal/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/></a> 
+ &nbsp;<a href="mailto:sara.sae1212@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" style="vertical-align: middle;"/></a>
  &nbsp; <a href="https://codeforces.com/profile/sara-121" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="20" height="20" style="vertical-align: middle;"/>
+  <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30" height="30" style="vertical-align: middle;"/>
 </a>
- 
 
 
