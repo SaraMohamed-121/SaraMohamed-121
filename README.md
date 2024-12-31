@@ -29,14 +29,18 @@ Junior student at the Faculty of Computer and Information Sciences, Ain Shams Un
 
   + *SW Design*    ![Rational Rose](https://img.shields.io/badge/Rational%20Rose-%23000000.svg?style=flat) ![Draw.io](https://img.shields.io/badge/Draw.io-%23F57600.svg?style=flat) ![StarUML](https://img.shields.io/badge/StarUML-%23013D80.svg?style=flat)
 
----
 
+#
 
-**🔗 Connect with me:** **[sara.sae1212@gmail.com](mailto:sara.sae1212@gmail.com)**.
+**🔗 Connect with me:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/>
 </a>
+ &nbsp;<a href="mailto:sara.sae1212@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="20" height="20" style="vertical-align: middle;"/></a>
  &nbsp; <a href="https://codeforces.com/profile/sara-121" target="_blank">
   <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="20" height="20" style="vertical-align: middle;"/>
 </a>
+ 
+
+
