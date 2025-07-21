@@ -6,7 +6,7 @@ I am passionate about leveraging technology to solve real-world challenges. My e
 
 **👩‍💻 Education:**
 
-Senior student at the Faculty of Computer and Information Sciences, Ain Shams University.
+B.Sc. Computer Science Student at the Faculty of Computer and Information Sciences, Ain Shams University (@FCIS_ASU).
 
 **🛠 Technical Skills:**
 - **Programming Languages:**  
