@@ -1,4 +1,6 @@
-<h1 align="center" style="color:#1f6feb;">Hi, I'm Sara Mohamed Abdelaal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:262626&height=180&section=header&text=Sara%20Mohamed%20Abdelaal&fontSize=42&fontColor=ffdd00&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;AI+Systems+%26+Hardware+Integration;Deep+Learning+Engineer;Embedded+AI+Developer" />
@@ -20,9 +22,8 @@ B.Sc. Computer Science - **Faculty of Computer and Information Sciences, Ain Sha
 
 
 - **Data Analysis & Computer Vision Libraries**  
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23003995.svg?style=flat&logo=seaborn&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)  ![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-blue)![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-%230042A1.svg?style=flat) ![Ultralytics](https://img.shields.io/badge/Ultralytics-%2300417A.svg?style=flat) ![Ray](https://img.shields.io/badge/Ray-%23E01563.svg?style=flat)  ![Dash](https://img.shields.io/badge/Dash-%2300C7B7.svg?style=flat&logo=plotly&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=flat&logo=googlesheets&logoColor=white)  ![Google Auth](https://img.shields.io/badge/Google%20Auth-%234285F4.svg?style=flat&logo=google&logoColor=white)  ![dotenv](https://img.shields.io/badge/python--dotenv-%233776AB.svg?style=flat&logo=python&logoColor=white)  ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-%2300A67E.svg?style=flat&logo=googlegemini&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23003995.svg?style=flat&logo=seaborn&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)  ![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-blue)![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-%230042A1.svg?style=flat) ![Ultralytics](https://img.shields.io/badge/Ultralytics-%2300417A.svg?style=flat) ![Ray](https://img.shields.io/badge/Ray-%23E01563.svg?style=flat)  ![Dash](https://img.shields.io/badge/Dash-%2300C7B7.svg?style=flat&logo=plotly&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=flat&logo=googlesheets&logoColor=white)  ![Google Auth](https://img.shields.io/badge/Google%20Auth-%234285F4.svg?style=flat&logo=google&logoColor=white)  ![dotenv](https://img.shields.io/badge/python--dotenv-%233776AB.svg?style=flat&logo=python&logoColor=white)  ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-%2300A67E.svg?style=flat&logo=googlegemini&logoColor=white) 
 
 #
 
@@ -68,6 +69,10 @@ B.Sc. Computer Science - **Faculty of Computer and Information Sciences, Ain Sha
 <a href="mailto:sara.sae1212@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" style="vertical-align: middle;"/></a>
 <a href="https://codeforces.com/profile/sara-121" target="_blank">
   <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30" height="30" style="vertical-align: middle;"/>
+</a>
+<a href="https://www.hackerrank.com/profile/sma121" target="_blank">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEUNFB4MFB4NFB0NEx4ADRkAAAAAAAwNABgMEx47PkLV1dY2OT2Gh4m8vLwEw1QFvlIABxVLTVH///9GSEupqqvq6uoA9GcB7WQA8WYNABZBQ0cB6WMC6WNgYWQuMTexsbLvMrB+AAAAyElEQVR4AZ2QiwrCMAxFb5tF43zP13RT//8v3SVgAxQmnjEu5DRbE8yRPLKHIEYmqDMrafPfsk6O1GSj2mChiqXDusFls2rbtW7are72ZLeU0nk4dt1Jz91FrzfS3wWQIB+U2g/jMI43Sgvy+XpTjoQSyaVQktIJiZ0kdKIQPjsQv5CBxAsFKSD1UeCysoQifX0W1icoElksTY+Z8GeE4TJz5DTB06x6gNBSmYGIiQfcURIe5+sRJUHgKyURC9Ug4bdN4tUfRvkApzgQVpG08DsAAAAASUVORK5CYII=" 
+       alt="HackerRank" width="30" height="30" style="vertical-align: middle;"/>
 </a>
 </p>
 
