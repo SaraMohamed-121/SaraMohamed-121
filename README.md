@@ -71,8 +71,7 @@ B.Sc. Computer Science - **Faculty of Computer and Information Sciences, Ain Sha
   <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30" height="30" style="vertical-align: middle;"/>
 </a>
 <a href="https://www.hackerrank.com/profile/sma121" target="_blank">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEUNFB4MFB4NFB0NEx4ADRkAAAAAAAwNABgMEx47PkLV1dY2OT2Gh4m8vLwEw1QFvlIABxVLTVH///9GSEupqqvq6uoA9GcB7WQA8WYNABZBQ0cB6WMC6WNgYWQuMTexsbLvMrB+AAAAyElEQVR4AZ2QiwrCMAxFb5tF43zP13RT//8v3SVgAxQmnjEu5DRbE8yRPLKHIEYmqDMrafPfsk6O1GSj2mChiqXDusFls2rbtW7are72ZLeU0nk4dt1Jz91FrzfS3wWQIB+U2g/jMI43Sgvy+XpTjoQSyaVQktIJiZ0kdKIQPjsQv5CBxAsFKSD1UeCysoQifX0W1icoElksTY+Z8GeE4TJz5DTB06x6gNBSmYGIiQfcURIe5+sRJUHgKyURC9Ug4bdN4tUfRvkApzgQVpG08DsAAAAASUVORK5CYII=" 
-       alt="HackerRank" width="30" height="30" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="30" height="30" style="vertical-align: middle;"/>
 </a>
 </p>
 
