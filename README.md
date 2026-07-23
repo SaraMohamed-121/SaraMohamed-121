@@ -65,14 +65,17 @@ B.Sc. Computer Science - **Faculty of Computer and Information Sciences, Ain Sha
 <h3 align="center" style="color:#1f6feb;">Connect with me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sara-abdelaal/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/></a> 
-<a href="mailto:sara.sae1212@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" style="vertical-align: middle;"/></a>
-<a href="https://codeforces.com/profile/sara-121" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30" height="30" style="vertical-align: middle;"/>
-</a>
-<a href="https://www.hackerrank.com/profile/sma121" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="30" height="30" style="vertical-align: middle;"/>
-</a>
+  <a href="https://www.linkedin.com/in/sara-abdelaal/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/></a> 
+  <a href="mailto:sara.sae1212@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" style="vertical-align: middle;"/></a>
+  <a href="https://codeforces.com/profile/sara-121" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30" height="30" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sma121" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="30" height="30" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://kaggle.com/saramohamedabdelaal" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learning-practitioners-logo-shadow-tal-revivo.png" alt="Kaggle" width="30" height="30" style="vertical-align: middle;"/>
+  </a>
 </p>
 
 
