@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:262626&height=180&section=header&text=Sara%20Mohamed%20Abdelaal&fontSize=42&fontColor=ffdd00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d0d,100:262626&height=120&section=header&text=Sara%20Mohamed%20Abdelaal&fontSize=30&fontColor=ffdd00&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -15,10 +15,11 @@
 - **Edge AI:** Raspberry Pi, STM32, TFLite, ONNX Runtime.
 - **Real-Time AI Systems:** Low-latency inference & sensor. integration.
 - **AI Engineering:** Model Optimization, APIs, Deployment & MLOps.
-- **AI + Hardware:** LiDAR, Ultrasonic Sensors, ESP32 & Embedded Systems.
+- **Hardware:** LiDAR, Ultrasonic Sensors, ESP32 & Embedded Systems.
+- 
+#
 
-## Core Stack
-
+**<h3>Core Stack</h3>**
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
@@ -42,7 +43,7 @@
 </p>
 
 
-##
+---
 
 <p align="center">
   
