@@ -16,7 +16,7 @@
 - **Real-Time AI Systems:** Low-latency inference & sensor. integration.
 - **AI Engineering:** Model Optimization, APIs, Deployment & MLOps.
 - **Hardware:** LiDAR, Ultrasonic Sensors, ESP32 & Embedded Systems.
-- 
+
 #
 
 **<h3>Core Stack</h3>**
