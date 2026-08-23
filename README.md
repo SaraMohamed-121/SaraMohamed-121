@@ -46,24 +46,9 @@
 ---
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/sara-121" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/sma121" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="30"/>
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/saramohamedabdelaal" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" width="30"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sara.abdelaal.ai@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30"/>
-  </a>
+  <a href="https://www.linkedin.com/in/sara-abdelaal/" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/></a>
+  <a href="https://codeforces.com/profile/sara-121" target="_blank" style="text-decoration: none;"><img src="https://github.com/user-attachments/assets/3fa8aa1d-288d-405d-aeb3-311146c413bf" alt="Codeforces" width="30"/></a>
+  <a href="https://www.hackerrank.com/profile/sma121" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="30"/></a>
+  <a href="https://kaggle.com/saramohamedabdelaal" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle" width="30"/></a>
+  <a href="mailto:sara.abdelaal.ai@gmail.com" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30"/></a>
 </p>
